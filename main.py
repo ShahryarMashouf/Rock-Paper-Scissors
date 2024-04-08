@@ -22,7 +22,7 @@ while True:
         if computer == "scissors":
             print("computer: ", computer)
             print("player", player)
-            print("You win!!!")
+            print("You win dude!!!")
 
     elif player == "scissors":
         if computer == "paper":
